@@ -5,6 +5,6 @@ print ("Cargando...")
 
 # result = DeepFace.verify(img1_path = "img1.jpg", img2_path = "img2.jpg")
 # result = DeepFace.verify(img1_path = "/home/hugo/Documents/GitHub/apertura-puertas-reconocimiento-facial/deepface/faces/aigeneratedface2.jpg", img2_path = "/home/hugo/Documents/GitHub/apertura-puertas-reconocimiento-facial/deepface/faces/github-profile.jpeg")
-result = DeepFace.verify(img1_path = "/home/jonathan/apertura-puertas-reconocimiento-facial/DeepFace/Face/carrie1.png", img2_path = "/home/jonathan/apertura-puertas-reconocimiento-facial/DeepFace/Face/carrie2.png")
+result = DeepFace.verify(img1_path = "/home/jonathan/apertura-puertas-reconocimiento-facial/DeepFace/Fotos/foto1.png", img2_path = "/home/jonathan/apertura-puertas-reconocimiento-facial/DeepFace/Fotos/foto2.png")
 print ("Resultados")
 print (result)
